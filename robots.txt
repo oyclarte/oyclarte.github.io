@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oyclarte.github.io/sitemap
+Sitemap: https://oyclarte.github.io/app/sitemap
+Sitemap: https://oyclarte.github.io/assets/sitemap
+Sitemap: https://oyclarte.github.io/css/sitemap
+Sitemap: https://oyclarte.github.io/includes/sitemap
+Sitemap: https://oyclarte.github.io/item/sitemap
+Sitemap: https://oyclarte.github.io/src/sitemap
